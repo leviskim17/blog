@@ -28,8 +28,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  - name: Git
+    url: https://github.com/leviskim17
 
 # Pagination
 paginate: 5
@@ -41,7 +41,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: leviskim17
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
