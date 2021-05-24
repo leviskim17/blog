@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+3D Developer!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+... .
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[leviskim17@gmail.com](mailto:leviskim17@gmail.com)
