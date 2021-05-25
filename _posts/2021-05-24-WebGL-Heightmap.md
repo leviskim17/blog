@@ -40,9 +40,10 @@ A heightmap should be a greyscale image, with white areas representing the high 
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
-### 2-3.Trilinear interpolation
+### 2-3. Trilinear interpolation
 ![image](../images/trilinear.png "trilinear-interpolation")
 
 ## 3. Noise sampling
 
-Reserved
+### 3-1. Perline Noise
+### 3-1. Simplex Noise
